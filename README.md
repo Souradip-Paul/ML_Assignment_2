@@ -167,7 +167,7 @@ An interactive web application was developed using Streamlit to evaluate the fiv
 
 ### Live Streamlit Application
 
-**Streamlit App URL:** [Insert your deployed Streamlit Community Cloud URL here]
+**Streamlit App URL:** https://mlassignment2-hskvtevrpqxnsj4qdnr9wx.streamlit.app/
 
 ## 9. Project Structure
 
